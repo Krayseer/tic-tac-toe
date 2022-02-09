@@ -1,0 +1,5 @@
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\publish\CrossAnZero.exe
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\publish\CrossAnZero.dll
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\publish\CrossAnZero.deps.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\publish\CrossAnZero.runtimeconfig.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\publish\CrossAnZero.pdb

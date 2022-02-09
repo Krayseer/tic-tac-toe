@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.exe
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.deps.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.runtimeconfig.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.dll
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Debug\netcoreapp3.1\CrossAnZero.pdb
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.Form1.resources
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.dll
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.pdb
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Debug\netcoreapp3.1\CrossAnZero.genruntimeconfig.cache

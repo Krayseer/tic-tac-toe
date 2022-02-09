@@ -1,0 +1,14 @@
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.exe
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.deps.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.runtimeconfig.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.dll
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\bin\Release\netcoreapp3.1\win-x86\CrossAnZero.pdb
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.Form1.resources
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.dll
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.pdb
+C:\Users\Константин\Desktop\Хрэнь\C#\Проекты\CrossAnZero\CrossAnZero\obj\Release\netcoreapp3.1\win-x86\CrossAnZero.genruntimeconfig.cache
